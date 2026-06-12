@@ -11,8 +11,11 @@ To evaluate sales trends, outlet performance, customer ratings, and product cate
 ### Tools Used
 
 Power BI
+
 Power Query
+
 DAX
+
 Excel
 
 ### Dataset
@@ -23,8 +26,11 @@ Blinkit Grocery Dataset (public dataset used for learning and portfolio purposes
 ### Key Performance Indicators (KPIs)
 
 Total Sales: $1.20M
+
 Average Sales: $141
+
 Total Items Sold: 9K
+
 Average Customer Rating: 3.49
 
 ### Dashboard Features
